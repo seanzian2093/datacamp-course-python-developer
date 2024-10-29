@@ -7,3 +7,7 @@
 # Use `set` operations to aseess membership of elements in a or more lists is faster than using a list
 
 # Use `set` to find unique elements in a list is fast
+
+# Use `ndarray` to do sum or mean of elements in a list for better porformance
+
+# Use list comprehension to loop faster than using a for loop
